@@ -12,4 +12,4 @@ I am a Software Engineer at IBM. My interests are Software Development and Machi
 
 <br/><br/>
 [![Profile Views](https://komarev.com/ghpvc/?username=osamaahmed17&color=blue&style=plastic)](https://github.com/osamaahmed17) <br>
-![Osama Ahmed Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaahmed17&show_icons=true)
+![Osama Ahmed Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaahmed17&show_icons=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaahmed17&layout=compact)
