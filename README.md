@@ -10,7 +10,7 @@
 I am a Software Engineer at IBM. Multiple years of experience in Software and Cloud Development. Passionate about the latest trends in technology with a focus on innovation. Have high experience with Cloud platforms like Azure, Google, and IBM along with expertise in container orchestration and management tools such as Kubernetes and OpenShift. 
 
 
-<br/><br/>
+<br/><br/><br/>
 [![Profile Views](https://komarev.com/ghpvc/?username=osamaahmed17&color=blue&style=plastic)](https://github.com/osamaahmed17) <br>
 
 
