@@ -7,7 +7,7 @@
 <a href="https://www.researchgate.net/profile/Osama-Ahmed-7"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/researchgate.png?raw=true"></a>
 <a  href="https://medium.com/@osamaahmedtahir17"><img  height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/mediumwhite.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-I am an Engineering Doctorate (EngD) Candidate at the Technical University of Eindhoven, Netherlands. Before that, I had been working as a Software Engineer at IBM for 3 years in the area of Software and Cloud Development. Passionate about the latest technological advancements, with a focus on innovation. Have high experience with cloud platforms like Azure, Google, and IBM along with expertise in container orchestration and management tools such as Kubernetes and OpenShift. 
+I am an Engineering Doctorate (EngD) Candidate at the Technical University of Eindhoven, Netherlands. Before that, I had been working as a Software Engineer at IBM for 4 years in the area of Software and Cloud Development. Passionate about the latest technological advancements, with a focus on innovation. Have extensive experience with cloud platforms like Azure, Google, and IBM along with expertise in container orchestration and management tools such as Kubernetes and OpenShift. 
 
 
 <br/><br/>
