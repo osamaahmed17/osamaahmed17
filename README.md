@@ -5,10 +5,11 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/osamaahmed17/"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/linkedin.png?raw=true"></a>
 <a href="https://www.researchgate.net/profile/Osama-Ahmed-7"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/researchgate.png?raw=true"></a>
-<a href="https://topmate.io/osamaahmed17"><img  height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/topmate.png?raw=true"><a>
+<a href="https://topmate.io/osamaahmed17"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/topmate.png?raw=true"><a>
+<a href="https://www.credly.com/users/osamaahmed17/badges"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/credly.png?raw=true">
 <a  href="https://medium.com/@osamaahmedtahir17"><img  height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/mediumwhite.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-I am an Engineering Doctorate (EngD) Candidate at the Eindhoven University of Technology, Netherlands. Before that, I had been working as a Software Engineer at IBM for 3 years in the area of Software and Cloud Development. Passionate about the latest technological advancements, with a focus on innovation. Have extensive experience with cloud platforms like Azure, Google, and IBM along with expertise in container orchestration and management tools such as Kubernetes and OpenShift. 
+I am a high-performing software engineer with more than 4 years of experience in the cloud and software industries. My passion for technology and impactful collaboration make me incredibly valuable to my team and effective in my work.One of my top priorities and greatest skills as a professional is building relationships. I love to collaborate with others to find the best approach to solving tough problems. Putting value into connecting with others has been the main driver in my career thus far.
 
 
 <br/><br/>
