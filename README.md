@@ -1,5 +1,5 @@
 ![](https://github.com/osamaahmed17/osamaahmed17/blob/main/header_1.png)
-<h1 align="center">Hi, I'm Osama Tahir 👋</h1>
+<h1 align="center">Hi, I'm Osama Ahmed Tahir 👋</h1>
 
 
 <p align='center'>
