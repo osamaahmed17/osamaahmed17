@@ -10,7 +10,3 @@
 <a  href="https://medium.com/@osamaahmedtahir17"><img  height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/mediumwhite.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 I am a high-performing software engineer with 5 years of experience in the cloud, data and software industries. My passion for technology and impactful collaboration make me incredibly valuable to any team and effective in my work. One of my top priorities and greatest skills as a professional is building relationships. I love to collaborate with others to find the best approach to solving tough problems. Putting value into connecting with others has been the main driver in my career thus far.
-
-
-<br/><br/>
-[![Profile Views](https://komarev.com/ghpvc/?username=osamaahmed17&color=blue&style=plastic)](https://github.com/osamaahmed17) <br>
