@@ -9,4 +9,4 @@
 <a href="https://www.credly.com/users/osamaahmed17/badges"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/credly.png?raw=true"><a>
 <a  href="https://medium.com/@osamaahmedtahir17"><img  height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/mediumwhite.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-I am a high-performing software engineer with 5 years of experience in the data, cloud, and software industries. My passion for technology and impactful collaboration make me incredibly valuable to any team and effective in my work. My work has been focused on large-scale AI and distributed data-intensive systems in semiconductors, finance, and scientific infrastructure.
+I am a high-performing software engineer with more than 5 years of experience in the data, cloud, and software industries. My passion for technology and impactful collaboration make me incredibly valuable to any team and effective in my work. My work has been focused on large-scale AI and distributed data-intensive systems in semiconductors, finance, and scientific infrastructure.
