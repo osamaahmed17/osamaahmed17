@@ -5,7 +5,6 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/osamaahmed17/"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/linkedin.png?raw=true"></a>
 <a href="https://www.researchgate.net/profile/Osama-Ahmed-7"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/researchgate.png?raw=true"></a>
-<a href="https://topmate.io/osamaahmed17"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/topmate.png?raw=true"><a>
 <a href="https://www.credly.com/users/osamaahmed17/badges"><img height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/credly.png?raw=true"><a>
 <a  href="https://medium.com/@osamaahmedtahir17"><img  height="30" src="https://github.com/osamaahmed17/osamaahmed17/blob/main/mediumwhite.png?raw=true"></a>&nbsp;&nbsp;
 </p>
